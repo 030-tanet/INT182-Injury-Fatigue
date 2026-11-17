@@ -1,6 +1,6 @@
 # INT182-Injury-Fatigue
 
-yolo cola
+yolo colab
 https://colab.research.google.com/drive/1kSVlLB-svyN1y7sJNb3NkIcD4dPckgTM?usp=sharing
 
 lstm colab
